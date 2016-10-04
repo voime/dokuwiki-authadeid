@@ -1,0 +1,6 @@
+base   authadeid
+author Arvi Võime
+email  avoime@gmail.com
+date   2016-09-30
+name   Active Directory EID Auth
+desc   Provides user authentication against a Microsoft Active Directory using Estonian ID card
